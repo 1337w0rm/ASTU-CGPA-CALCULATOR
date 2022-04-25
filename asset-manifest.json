@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ASTU-CGPA-CALCULATOR/static/css/main.1af7f173.css",
-    "main.js": "/ASTU-CGPA-CALCULATOR/static/js/main.ef9738d1.js",
-    "index.html": "/ASTU-CGPA-CALCULATOR/index.html",
-    "main.1af7f173.css.map": "/ASTU-CGPA-CALCULATOR/static/css/main.1af7f173.css.map",
-    "main.ef9738d1.js.map": "/ASTU-CGPA-CALCULATOR/static/js/main.ef9738d1.js.map"
+    "main.css": "/astucgpa/static/css/main.1af7f173.css",
+    "main.js": "/astucgpa/static/js/main.ef9738d1.js",
+    "index.html": "/astucgpa/index.html",
+    "main.1af7f173.css.map": "/astucgpa/static/css/main.1af7f173.css.map",
+    "main.ef9738d1.js.map": "/astucgpa/static/js/main.ef9738d1.js.map"
   },
   "entrypoints": [
     "static/css/main.1af7f173.css",
