@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/astucgpa/static/css/main.1af7f173.css",
+    "main.js": "/astucgpa/static/js/main.ef9738d1.js",
+    "index.html": "/astucgpa/index.html",
+    "main.1af7f173.css.map": "/astucgpa/static/css/main.1af7f173.css.map",
+    "main.ef9738d1.js.map": "/astucgpa/static/js/main.ef9738d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af7f173.css",
+    "static/js/main.ef9738d1.js"
+  ]
+}
